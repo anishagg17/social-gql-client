@@ -7,7 +7,7 @@ Social networking `react-native` iOS/Android app.
   .d-inline-flex { display: inline-flex; }
 </style>
 
-<div style="height: 64px;">
+<!-- <div style="height: 64px;">
   <div class="border position-absolute top-0 left-0">
     .top-0 .left-0
   </div>
@@ -36,7 +36,7 @@ Social networking `react-native` iOS/Android app.
   <div class="d-inline-block float-left bg-blue text-white m-3" style="width:100px; height:100px;">
     Four
   </div>
-</div>
+</div> -->
 
 <div class="position-relative" style="height:116px;">
   <div style="display:flex;" class="border d-flex">  
