@@ -38,11 +38,12 @@ Social networking `react-native` iOS/Android app.
   </div>
 </div>
 
-
-<div style="display:flex;" class="border d-flex">  
-  <div class="p-5 border bg-gray-light">flex item 1</div>
-  <div class="p-5 border bg-gray-light">flex item 2</div>
-  <div class="p-5 border bg-gray-light">flex item 3</div>
+<div class="position-relative" style="height:116px;">
+  <div style="display:flex;" class="border d-flex">  
+    <div class="p-5 border bg-gray-light">flex item 1</div>
+    <div class="p-5 border bg-gray-light">flex item 2</div>
+    <div class="p-5 border bg-gray-light">flex item 3</div>
+  </div>
 </div>
 
 
