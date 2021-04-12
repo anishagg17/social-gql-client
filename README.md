@@ -3,6 +3,20 @@
 Social networking `react-native` iOS/Android app.
 
 
+<div class="d-inline-block float-left bg-blue text-white m-3" style="width:100px; height:100px;">
+  One
+</div>
+<div class="d-inline-block float-left position-relative bg-blue text-white m-3" style="width:100px; height:100px;  top:12px; left:12px;">
+  Two
+</div>
+<div class="d-inline-block float-left bg-blue text-white m-3" style="width:100px; height:100px;">
+  Three
+</div>
+<div class="d-inline-block float-left bg-blue text-white m-3" style="width:100px; height:100px;">
+  Four
+</div>
+
+
 <!-- 
 <div class="clearfix p-3 border border-gray">
   <div class="float-left p-3 mr-3 bg-gray">
