@@ -2,6 +2,12 @@
 
 Social networking `react-native` iOS/Android app.
 
+
+<style>
+  .d-flex { display: flex; }
+  .d-inline-flex { display: inline-flex; }
+</style>
+
 <div style="height: 64px;">
   <div class="border position-absolute top-0 left-0">
     .top-0 .left-0
