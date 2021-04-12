@@ -2,36 +2,6 @@
 
 Social networking `react-native` iOS/Android app.
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
-</svg>
-
-Welcome to my README!
-
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
 <style>
   .d-flex { display: flex; }
   .d-inline-flex { display: inline-flex; }
@@ -69,7 +39,7 @@ Welcome to my README!
 </div>
 
 
-<div class="border d-flex">  
+<div style="display:flex;" class="border d-flex">  
   <div class="p-5 border bg-gray-light">flex item 1</div>
   <div class="p-5 border bg-gray-light">flex item 2</div>
   <div class="p-5 border bg-gray-light">flex item 3</div>
