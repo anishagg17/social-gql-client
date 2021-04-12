@@ -16,15 +16,16 @@ Social networking `react-native` iOS/Android app.
 
 
 <div class="border d-flex">
-  <div class="p-5 border bg-gray-light">
+<!--   <div class="p-5 border bg-gray-light"> -->
 <!--     <div class="Subhead"> -->
 <!--       <div class="Subhead-heading"> -->
-        User feed
+<!--         User feed -->
 <!--       </div> -->
 <!--       <img width="275" height="470" alt="user-feed" src="https://user-images.githubusercontent.com/43617894/114400317-7477d000-9bbf-11eb-8a57-864333e739d2.png"/> -->
-<!--     </div> -->
-  </div>
+<!--     </div>
+  </div> -->
   
+  <div class="p-5 border bg-gray-light">flex item 1</div>
   <div class="p-5 border bg-gray-light">flex item 2</div>
   <div class="p-5 border bg-gray-light">flex item 3</div>
 </div>
